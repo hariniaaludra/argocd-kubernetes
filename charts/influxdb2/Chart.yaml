@@ -1,6 +1,7 @@
 apiVersion: v2
 appVersion: 2.3.0
 name: influxdb2
+namespace: influxdb
 description: A Helm chart for InfluxDB v2
 home: https://www.influxdata.com/products/influxdb/
 type: application
